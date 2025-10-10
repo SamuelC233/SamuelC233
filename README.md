@@ -9,5 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory Infrastructure in Azure](https://github.com/SamuelC233/configure-ad-vm)
   - [Configuring Active Directory within Azure VMs](https://github.com/SamuelC233/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SamuelC233/azure-network-protocols)
+  - [Configuring Group Policy and Managing Accounts](https://github.com/SamuelC233/configure-gp)
 
