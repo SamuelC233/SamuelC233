@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SamuelC233/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/SamuelC233/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SamuelC233/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory Infrastructure in Azure](https://github.com/SamuelC233/configure-ad-vm)
+  - [Setting Up a Domain Controller and Client Virtual Machine in Azure](https://github.com/SamuelC233/configure-ad-vm)
   - [Configuring Active Directory within Azure VMs](https://github.com/SamuelC233/configure-ad)
   - [Configuring Group Policy and Managing Accounts](https://github.com/SamuelC233/configure-gp)
 
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Samuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https:www.linkedin.com/in/samuel-collie-398325149
